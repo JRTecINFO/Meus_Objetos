@@ -143,7 +143,7 @@ namespace MyObjects
             dasControl = false;
         }
 
-        private void objetosFecharBtn_Click(object sender, EventArgs e)
+        private void fecharObjetosBtn_Click(object sender, EventArgs e)
         {
             conteudoTab.TabPages.Remove(objetosPage);
             objControl = false;

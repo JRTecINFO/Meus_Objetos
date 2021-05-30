@@ -118,17 +118,32 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="task_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Img\task_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dashboard_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\dashboard_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="buy_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Img\buy_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="add_16px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\add_16px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="task_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\task_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="whmcs_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Img\whmcs_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dashboard_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Img\dashboard_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="erase_16px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\erase_16px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logout_rounded_left_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\logout_rounded_left_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="registration_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\registration_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="add_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\add_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="handshake_heart_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Img\handshake_heart_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,16 +151,16 @@
   <data name="user_96px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Img\user_96px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="registration_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Img\registration_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="delete_16px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\delete_16px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="suitcase_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Img\suitcase_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logout_rounded_left_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Img\logout_rounded_left_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="search_16px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\search_16px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="delete_16px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Img\delete_16px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="save_16px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Img\save_16px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

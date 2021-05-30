@@ -63,6 +63,26 @@ namespace MyObjects.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap add_16px {
+            get {
+                object obj = ResourceManager.GetObject("add_16px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap add_32px {
+            get {
+                object obj = ResourceManager.GetObject("add_32px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap buy_32px {
             get {
                 object obj = ResourceManager.GetObject("buy_32px", resourceCulture);
@@ -93,6 +113,16 @@ namespace MyObjects.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap erase_16px {
+            get {
+                object obj = ResourceManager.GetObject("erase_16px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap handshake_heart_32px {
             get {
                 object obj = ResourceManager.GetObject("handshake_heart_32px", resourceCulture);
@@ -116,6 +146,26 @@ namespace MyObjects.Properties {
         internal static System.Drawing.Bitmap registration_32px {
             get {
                 object obj = ResourceManager.GetObject("registration_32px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap save_16px {
+            get {
+                object obj = ResourceManager.GetObject("save_16px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap search_16px {
+            get {
+                object obj = ResourceManager.GetObject("search_16px", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
